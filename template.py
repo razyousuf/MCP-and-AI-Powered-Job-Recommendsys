@@ -14,7 +14,8 @@ list_of_files = [
     "Dockerfile",
     ".dockerignore",
     "demo.py",
-    "setup.py"
+    "setup.py",
+    ".env",
 ]
 
 

@@ -1,0 +1,7 @@
+openai
+pymupdf
+apify-client
+python-dotenv
+streamlit
+
+.e
