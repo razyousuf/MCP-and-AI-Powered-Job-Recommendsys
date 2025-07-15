@@ -6,8 +6,12 @@ project_name = "job_recommender"
 
 list_of_files = [
     f"{project_name}/__init__.py",
-    f"{project_name}/helper.py",
-    f"{project_name}/api.py",  
+    f"{project_name}/helper_functions.py",
+    f"{project_name}/job_api.py",
+    f"{project_name}/logger/logger.py",
+    f"{project_name}/logger/__init__.py",
+    f"{project_name}/exception/exception_handler.py",  
+    f"{project_name}/exception/__init__.py",
     "app.py",
     "mcp_server.py",
     "requirements.txt",
