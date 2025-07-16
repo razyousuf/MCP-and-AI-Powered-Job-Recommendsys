@@ -4,4 +4,4 @@ apify-client
 python-dotenv
 streamlit
 
-.e
+-e .
